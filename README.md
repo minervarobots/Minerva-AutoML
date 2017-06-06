@@ -1,2 +1,2 @@
-# minerva-autoML
+# Minerva AutoML
 Minerva AutoML
